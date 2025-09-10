@@ -89,7 +89,7 @@ public class Mang1chieu {
         while (c == 'y' || c == 'Y') {
             System.out.println("\n--- MENU ---");
             System.out.println("1. Nhap mang:");
-            System.out.println("2. Xuat mang");
+            System.out.println("2. Xuat mang:");
             System.out.println("3. Tim x trong mang");
             System.out.println("4. Xoa phan tu x trong mang");
             System.out.println("5. Sap xep mang");
