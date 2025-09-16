@@ -4,7 +4,7 @@ public class Bai2 {
         int tuoi = 20;
         double chieuCao = 1.75; // mét
         boolean bietLapTrinh = true;
-        char gioiTinh = 'M';
+        char gioiTinh = 'N';
 
         System.out.println("Họ tên: " + hoTen);
         System.out.println("Tuổi: " + tuoi);
